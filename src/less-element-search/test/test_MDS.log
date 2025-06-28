@@ -1,0 +1,67 @@
+
+>>> Verifying MDS property for LESS:
+        (n, k, alpha)  =  (127, 125, 2)
+        primitive element: 2 in GF(2^8)
+[==================================================] 100% (8001/8001)
+        MDS!!!
+
+>>> Verifying MDS property for LESS:
+        (n, k, alpha)  =  (44, 41, 2)
+        primitive element: 50 in GF(2^8)
+[==================================================] 100% (13244/13244)
+        MDS!!!
+
+>>> Verifying MDS property for LESS:
+        (n, k, alpha)  =  (127, 124, 2)
+        primitive element: 2 in GF(2^16)
+[==================================================] 100% (333375/333375)
+        MDS!!!
+
+>>> Verifying MDS property for LESS:
+        (n, k, alpha)  =  (40, 37, 3)
+        primitive element: 14 in GF(2^8)
+[==================================================] 100% (9880/9880)
+        MDS!!!
+
+>>> Verifying MDS property for LESS:
+        (n, k, alpha)  =  (127, 124, 3)
+        primitive element: 2 in GF(2^16)
+[==================================================] 100% (333375/333375)
+        MDS!!!
+
+>>> Verifying MDS property for LESS:
+        (n, k, alpha)  =  (23, 19, 2)
+        primitive element: 6 in GF(2^8)
+[==================================================] 100% (8855/8855)
+        MDS!!!
+
+>>> Verifying MDS property for LESS:
+        (n, k, alpha)  =  (127, 123, 2)
+        primitive element: 46 in GF(2^16)
+[==================================================] 100% (10334625/10334625)
+        MDS!!!
+
+>>> Verifying MDS property for LESS:
+        (n, k, alpha)  =  (17, 13, 3)
+        primitive element: 2 in GF(2^8)
+[==================================================] 100% (2380/2380)
+        MDS!!!
+
+>>> Verifying MDS property for LESS:
+        (n, k, alpha)  =  (127, 123, 3)
+        primitive element: 1362 in GF(2^16)
+[==================================================] 100% (10334625/10334625)
+        MDS!!!
+
+>>> Verifying MDS property for LESS:
+        (n, k, alpha)  =  (16, 12, 4)
+        primitive element: 14 in GF(2^8)
+[==================================================] 100% (1820/1820)
+        MDS!!!
+
+>>> Verifying MDS property for LESS:
+        (n, k, alpha)  =  (127, 123, 4)
+        primitive element: 635 in GF(2^16)
+[==================================================] 100% (10334625/10334625)
+        MDS!!!
+
