@@ -16,7 +16,7 @@ from scipy.stats import t
 import common
 
 numRuns = 10
-codeParams=[("RSCode", 9, 6, 1),("RSCode", 14, 10, 1),("RSCode", 16, 12, 1),("LESS", 9, 6, 2),("LESS", 9, 6, 3),("LESS", 14, 10, 2),("LESS", 14, 10, 3),("LESS", 14, 10, 4),("LESS", 16, 12, 2),("LESS", 16, 12, 3),("LESS", 16, 12, 4),("LESS", 124, 120, 4)]
+codeParams=[("RSCode", 9, 6, 1),("RSCode", 14, 10, 1),("RSCode", 16, 12, 1),("LESS", 9, 6, 2),("LESS", 9, 6, 3),("LESS", 14, 10, 2),("LESS", 14, 10, 3),("LESS", 14, 10, 4),("LESS", 16, 12, 2),("LESS", 16, 12, 3),("LESS", 16, 12, 4),("RSCode", 124, 120, 1),("LESS", 124, 120, 4)]
 evalBlockSizeBytes=[131072, 262144, 524288, 1048576]
 
 RAW_LIB_DIR=common.PROJ_DIR + "/src/ec-library"
