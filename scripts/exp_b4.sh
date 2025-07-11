@@ -23,7 +23,7 @@ LESS 14 10 4
 EOF
 )
 
-bandwidthList=(2097152 5242880 10485760)
+bandwidthList=(1048576 2097152 5242880 10485760)
 
 # prepare code list
 echo "${codeList[@]}" > $exp_script_dir/code_test_list.txt

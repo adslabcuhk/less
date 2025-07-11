@@ -9,9 +9,13 @@ our USENIX FAST 2026 paper.
 
 ## Publications
 
-Keyun Cheng*, Guodong Li*, Xiaolu Li, Sihuang Hu, and Patrick P. C. Lee. 
-"LESS is More for I/O-Efficient Repairs in Erasure-Coded Storage."
-USENIX FAST 2026. (*: Equal contribution)
+Keyun Cheng*, Guodong Li*, Xiaolu Li, Sihuang Hu, and Patrick P. C. Lee ( (*:
+Equal contribution))
+
+"LESS is More for I/O-Efficient Repairs in Erasure-Coded
+Storage."
+
+USENIX FAST 2026
 
 ## Overview
 
