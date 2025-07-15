@@ -27,6 +27,8 @@ coding coefficients.
 * **Artifact evaluation instructions** (```AE_INSTRUCTION.md```): Instructions for evaluating the artifact.
 * **Artifact evaluation scripts** (```scripts```): Scripts for reproducing
   results in our paper.
+* **Paper** (```fast26less_accepted.pdf```): The accepted version of our FAST
+  paper.
 
 For details, please refer to the ```README.md``` in corresponding
 subdirectories.
